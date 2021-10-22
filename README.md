@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andres
+- 👋 Hi, mi name is Andrés Buelvas
 - 👀 I’m interested in learn about differents programming languages
 - 🌱 I’m currently learning Python, Java and FrontEnd with JavaScript
 - 💞️ I’m looking to collaborate on any TI enterprise or starup where I can continue to learn, improving my skills and become a excellent developer.
